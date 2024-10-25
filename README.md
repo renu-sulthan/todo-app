@@ -1,2 +1,2 @@
 # todo-app
-This is basic to-to application
+This is basic to-do application
